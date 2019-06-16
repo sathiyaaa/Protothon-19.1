@@ -1,0 +1,13 @@
+>>> s='Protosem'
+>>> s.upper()
+'PROTOSEM'
+>>> s.lower()
+'protosem'
+>>> s.title()
+'Protosem'
+>>> p="proto sem"
+>>> p.title()
+'Proto Sem'
+>>>l="protosem"
+>>>l.capitalize()
+'Protosem'
